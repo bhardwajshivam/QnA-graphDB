@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+
+# Python cache
+*.pyc
+*.pyo
+*.pyd
+
+# Mac OS metadata
+.DS_Store
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Log files
+*.log
+
+# Coverage and testing
+htmlcov/
+.tox/
+.coverage
+.pytest_cache/
+coverage.xml
+nosetests.xml
+
+# Docker stuff
+docker-compose.override.yml
+*.pid
+
+# Pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# MyPy
+.mypy_cache/
+
+# Pydantic schema cache
+__pydantic__/ 
+
+# LangChain cache (optional)
+.cache/
+langchain.db
+
+# Node/npm (if you use frontend or UI)
+node_modules/
