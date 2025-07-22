@@ -1,0 +1,6 @@
+src_entity,src_type,rel_type,tgt_entity,tgt_type
+Diabetes,Disease,RELATED_TO,Insulin,Hormone
+Hypertension,Disease,TREATED_WITH,Beta Blockers,Drug
+Asthma,Disease,TRIGGERED_BY,Pollen,Allergen
+COVID-19,Disease,PREVENTED_BY,Vaccine,Treatment
+Cancer,Disease,DIAGNOSED_BY,Biopsy,Procedure
